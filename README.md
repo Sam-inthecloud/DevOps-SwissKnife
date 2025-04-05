@@ -1,8 +1,8 @@
-# **pycloud-swissknife** 
+# **DevOps-Swissknife** 
 
-![Logo](https://img.shields.io/badge/pycloud--swissknife-ready-blue)
+![Logo](https://img.shields.io/badge/DevOps--SwissKnife-ready-blue)
 
-Welcome to **pycloud-swissknife** – a personal collection of versatile Python scripts I've built to automate cloud/DevOps tasks for automating repetitive tasks, and improving efficiency in cloud engineering and data processing. I created this repository as a central place to store these scripts, and I hope it can serve as a helpful resource for others working on similar cloud and DevOps challenges. Whether you're managing cloud infrastructure, working with data, or building automation pipelines, you'll find something useful here. 
+Welcome to **DevOps-SwissKnife** – a personal collection of versatile Python scripts I've built for automating repetitive tasks, and improving efficiency in cloud/DevOps engineering and data processing. I created this repository as a central place to store these scripts, and I hope it can serve as a helpful resource for others working on similar cloud and DevOps challenges. Whether you're managing cloud infrastructure, working with data, or building automation pipelines, you'll find something useful here. 
 
 This repo is not just for me – it's an open resource, and I'd love for others to contribute, share improvements, or add their own tools. Feel free to fork the repository, open issues, or submit pull requests. 🌱
 
@@ -72,5 +72,5 @@ I encourage you to contribute to this project and make it even better! Whether i
 This project is licensed under the MIT License – see the LICENSE file for details. 📜
 
 ---
-Thanks for checking out pycloud-swissknife! 🚀
+Thanks for checking out DevOps-swissknife! 🚀
 Let’s make cloud and DevOps automation easier, one script at a time! 🌟
